@@ -1,0 +1,3 @@
+[submodule "predir/pysnow"]
+	path = L/modules/predir
+	url = https://github.com/pysnow1/hook
